@@ -8,8 +8,8 @@
 
 ## Instalasi
 1. Buka Terminal. (ex: git bash, cmd, dll)
-2. Clone repository ini menggunakan perintah `git clone https://github.com/stay-coding/batu-umum.git`
-3. Change direktory menggunakan perintah `cd batu-umum`
+2. Clone repository ini menggunakan perintah `git clone https://github.com/aliftanmalaka/praktikum-cape.git`
+3. Change direktory menggunakan perintah `cd praktikum-cape`
 4. Masukkan perintah `composer install` untuk menginstall data vendor
 5. Masukkan perintah `cp .env.example .env` untuk menyalin file `.env`
 6. Masukkan perintah `php artisan key:generate` untuk mengenerate APP_KEY
